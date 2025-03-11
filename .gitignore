@@ -58,3 +58,6 @@ build/
 hs_err_pid*
 replay_pid*
 >>>>>>> 8765a92ea6a273452f9e521f80f510669e3436b3
+
+# application.properties
+application.properties

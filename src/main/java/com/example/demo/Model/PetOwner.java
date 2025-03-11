@@ -12,7 +12,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@PrimaryKeyJoinColumn(name = "patient_id")
+@PrimaryKeyJoinColumn(name = "petOwner_id")
 public class PetOwner extends Users{
     private long id;
 }
